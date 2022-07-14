@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Akram from Indonesia, currently a student at Muhammadiyah Malang University, majoring in Informatics.
-- 👀 I’m interested in coding, for sure ;)
-- 🌱 I’m currently learning Java programming language.
-- 💞️ I’m looking to collaborate on projects, but still a newbie.
 - 📫 You can follow my socials @akraamdh.
 
 <!---
