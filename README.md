@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akram from Indonesia, currently a student at Muhammadiyah Malang University, majoring in Informatics.
+- 👋 Hi, I’m Akram from Indonesia, currently a student at University of Muhammadiyah Malang, majoring in Informatics.
 - 📫 You can follow my socials @akraamdh.
 
 <!---
