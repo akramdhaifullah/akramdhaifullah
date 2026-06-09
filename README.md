@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Akram from Indonesia, currently a student at University of Muhammadiyah Malang, majoring in Informatics.
-- 📫 You can follow my socials @akraamdh.
+I want to build, I just need ideas.
 
 <!---
 akramdhaifullah/akramdhaifullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
